@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.container-main {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 12px;
+}
+.ul-style {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  list-style-type: none;
+
+  padding: 0px;
+  width: 150px;
+}
+.img-sizing {
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+}
+.bg-color-true {
+  background-color: #333333;
+}
+.list-heading-style {
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: 600;
+}
+.link-style {
+  text-decoration: none;
+}
+.button-style {
+  background-color: transparent;
+  border-width: 0px;
+}
